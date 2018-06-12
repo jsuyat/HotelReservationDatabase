@@ -18,8 +18,8 @@ public class HotelDatabase{
   private String jdbc_url = "jdbc:oracle:thin:@apollo.vse.gmu.edu:1521:ite10g";
 
   //login information
-  private String username = "jsuyat";
-  private String password = "gubohu";
+  private String username = "***";
+  private String password = "***";
 
   //Default constructor
   public HotelDatabase(){}
